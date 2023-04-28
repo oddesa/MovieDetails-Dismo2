@@ -1,0 +1,27 @@
+PODS:
+  - MovieDetails (0.1.0)
+  - Nimble (10.0.0)
+  - Quick (2.2.1)
+
+DEPENDENCIES:
+  - MovieDetails (from `../`)
+  - Nimble (~> 10.0.0)
+  - Quick (~> 2.2.0)
+
+SPEC REPOS:
+  trunk:
+    - Nimble
+    - Quick
+
+EXTERNAL SOURCES:
+  MovieDetails:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MovieDetails: 0199b45e34ae0b547d5e5a29fb6b0e944896de5f
+  Nimble: 5316ef81a170ce87baf72dd961f22f89a602ff84
+  Quick: f5754d69b7013f5864c29aab9ae6f0c79c5bc200
+
+PODFILE CHECKSUM: 4abcdf78028abd7d1c382c023a098ecd9fced6a0
+
+COCOAPODS: 1.11.3
